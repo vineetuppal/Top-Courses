@@ -3,7 +3,9 @@
 Top Courses is a React-based web application designed to display and filter a collection of courses. Users can explore courses by categories, view details, and "like" their favorite courses. The application is styled using Tailwind CSS for a modern and responsive UI.
 
 ---
+**Live Demo:** [Top Courses](https://top-courses-vineet.netlify.app/)
 
+---
 ## Features
 
 - **Dynamic Filtering**: Filter courses by categories.
